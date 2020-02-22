@@ -3,6 +3,7 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
+
 I have a *Blog*
 $$
 (\frac{f_x}{\sqrt{1+f_x^2}})_x+\varepsilon f=S(x)
