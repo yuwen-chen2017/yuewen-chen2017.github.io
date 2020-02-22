@@ -4,5 +4,5 @@
 I have a *Blog*
 
 $$
-\sum
+\frac{1}{2}
 $$
